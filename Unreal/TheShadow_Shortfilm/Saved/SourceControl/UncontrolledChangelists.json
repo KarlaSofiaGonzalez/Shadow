@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UP/ProyectoTerminal/TheShadow/Shadow/Unreal/TheShadow_Shortfilm/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/UP/ProyectoTerminal/TheShadow/Shadow/Unreal/TheShadow_Shortfilm/Content/TheShadow/Sequences/Scene02/Test_LandingLevel.umap",
+				"D:/UP/ProyectoTerminal/TheShadow/Shadow/Unreal/TheShadow_Shortfilm/Content/StarterContent/Maps/StarterMap.umap"
+			]
+		}
+	]
+}
