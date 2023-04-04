@@ -6,8 +6,27 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/UP/ProyectoTerminal/TheShadow/Shadow/Unreal/TheShadow_Shortfilm/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"D:/UP/ProyectoTerminal/TheShadow/Shadow/Unreal/TheShadow_Shortfilm/Content/TheShadow/Sequences/Scene02/Test_LandingLevel.umap",
-				"D:/UP/ProyectoTerminal/TheShadow/Shadow/Unreal/TheShadow_Shortfilm/Content/StarterContent/Maps/StarterMap.umap"
+				"D:/UP/ProyectoTerminal/TheShadow/Shadow/Unreal/TheShadow_Shortfilm/Content/StarterContent/Maps/StarterMap.umap",
+				"D:/UP/ProyectoTerminal/TheShadow/Shadow/Unreal/TheShadow_Shortfilm/Content/TheShadow/VFX/M_Test01.uasset",
+				"D:/UP/ProyectoTerminal/TheShadow/Shadow/Unreal/TheShadow_Shortfilm/Content/TheShadow/VFX/MI_Test01.uasset",
+				"D:/UP/ProyectoTerminal/TheShadow/Shadow/Unreal/TheShadow_Shortfilm/Content/TheShadow/VFX/NewBlueprint.uasset",
+				"D:/UP/ProyectoTerminal/TheShadow/Shadow/Unreal/TheShadow_Shortfilm/Content/TheShadow/Resources/StaticMeshes/M_Oven.uasset",
+				"D:/UP/ProyectoTerminal/TheShadow/Shadow/Unreal/TheShadow_Shortfilm/Content/TheShadow/Resources/StaticMeshes/K_Microondas.uasset",
+				"D:/UP/ProyectoTerminal/TheShadow/Shadow/Unreal/TheShadow_Shortfilm/Content/TheShadow/Resources/StaticMeshes/M_MetalFaucet.uasset",
+				"D:/UP/ProyectoTerminal/TheShadow/Shadow/Unreal/TheShadow_Shortfilm/Content/TheShadow/Resources/StaticMeshes/K_Mueble_Cocina_L.uasset",
+				"D:/UP/ProyectoTerminal/TheShadow/Shadow/Unreal/TheShadow_Shortfilm/Content/TheShadow/VFX/MI_Test02.uasset",
+				"D:/UP/ProyectoTerminal/TheShadow/Shadow/Unreal/TheShadow_Shortfilm/Content/TheShadow/VFX/M_Generico.uasset",
+				"D:/UP/ProyectoTerminal/TheShadow/Shadow/Unreal/TheShadow_Shortfilm/Content/TheShadow/VFX/MI_Generico.uasset",
+				"D:/UP/ProyectoTerminal/TheShadow/Shadow/Unreal/TheShadow_Shortfilm/Content/StarterContent/Maps/Karla_ShaderTest.umap",
+				"D:/UP/ProyectoTerminal/TheShadow/Shadow/Unreal/TheShadow_Shortfilm/Content/TheShadow/Resources/StaticMeshes/lambert1.uasset",
+				"D:/UP/ProyectoTerminal/TheShadow/Shadow/Unreal/TheShadow_Shortfilm/Content/TheShadow/Resources/StaticMeshes/M_BaseTable.uasset",
+				"D:/UP/ProyectoTerminal/TheShadow/Shadow/Unreal/TheShadow_Shortfilm/Content/TheShadow/Resources/StaticMeshes/M_TableFurniture.uasset",
+				"D:/UP/ProyectoTerminal/TheShadow/Shadow/Unreal/TheShadow_Shortfilm/Content/TheShadow/VFX/M_Texturizable.uasset",
+				"D:/UP/ProyectoTerminal/TheShadow/Shadow/Unreal/TheShadow_Shortfilm/Content/TheShadow/Resources/StaticMeshes/M_WhiteOven.uasset",
+				"D:/UP/ProyectoTerminal/TheShadow/Shadow/Unreal/TheShadow_Shortfilm/Content/TheShadow/Resources/StaticMeshes/M_Wood.uasset",
+				"D:/UP/ProyectoTerminal/TheShadow/Shadow/Unreal/TheShadow_Shortfilm/Content/TheShadow/VFX/MI_Test03.uasset",
+				"D:/UP/ProyectoTerminal/TheShadow/Shadow/Unreal/TheShadow_Shortfilm/Content/TheShadow/Resources/Textures/T_Option01.uasset",
+				"D:/UP/ProyectoTerminal/TheShadow/Shadow/Unreal/TheShadow_Shortfilm/Content/TheShadow/Sequences/Scene02/Test_LandingLevel.umap"
 			]
 		}
 	]
