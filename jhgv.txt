@@ -1,0 +1,81 @@
+Anim_020_0010_30_v001 (video1+ 3 y 4) (SameCam)
+Anim_020_0020_v001 (video2)
+Anim_030_0010_v001 (video5)
+Anim_030_0020_v001 (video6)
+Anim_030_0030_v001 (animatic)
+Anim_030_0040_v001 (video7)
+Anim_030_0050_v001 (video8)
+Anim_030_0060_v001 (animatic)
+Anim_030_0070_90_v001 (video9 y 10) (SameCam)
+Anim_030_0080_v001
+Anim_040_0010_v001 (video11)
+Anim_040_0020_v001 (video12)
+Anim_040_0030_v001 (video13)
+Anim_040_0040_v001 (animatic)
+Anim_040_0050_v001 (video14)
+Anim_050_0010_30_v001(animatic y video17)
+Anim_050_0020_v001(video15)
+Anim_050_0040_v001(video16) (SameCam video12)
+Anim_060_0010_v001(video18)
+Anim_060_0020_v001(video19)
+Anim_060_0030_v001(video20)
+Anim_060_0040_v001(video21)
+Anim_060_0050_v001(video22)
+Anim_070_0010_v001(video23)
+Anim_080_0010_v001(video24)
+Anim_080_0020_v001(video25)
+Anim_090_0010_v001(video26)
+Anim_090_0020_v001(video27)
+Anim_090_0030_v001(video28)
+Anim_090_0040_v001(video29)
+
+
+
+
+
+
+
+
+
+B_Sink
+B_Toalla
+H_Picture
+H_Table
+K_KitchenBar
+L_GeneralDoor
+L_Mesa
+L_PrincipalDoor
+L_Sofa
+L_Sofa_Base_Large
+L_Sofa_Base_Med
+L_Sofa_Respaldo_Large
+L_Sofa_Respaldo_Med
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
